@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...i love coding
+- ⚡ Fun fact: ...i love coding and black
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devtofunmi)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devtofunmi1&theme=dark)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=devtofunmi&theme=dark&border_radius=5)](https://git.io/streak-stats)
