@@ -1,18 +1,11 @@
 ### Hi there 👋
 
+ I’m a frontend developer 🥰
+ I’m currently working on Nnote
+ I'm looking to elaborate with other developer
 
-**devtofunmi/devtofunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...kaapture
-🌱 I’m currently learning ... React
- 👯 I’m looking to collaborate on ... any project
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
-😄 Pronouns: ...
- ⚡ Fun fact: ...i love coding and black
+ 💬 Ask me about anything, I am happy to help
+ 😄Fun fact: i love coding and  I love listening to music.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devtofunmi&theme=dark&border_radius=5)](https://git.io/streak-stats)
