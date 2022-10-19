@@ -22,8 +22,7 @@
  
 
  
- 
- -:man_technologist: About Me : I'm a Frontend Developer
+- :man_technologist: About Me : I'm a Frontend Developer
   
 - :telescope: I’m currently working on Nnote.
 
