@@ -22,7 +22,7 @@
  
  
    :man_technologist: About Me :
-  I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I'm a Frontend Developer
   
   - :telescope: I’m currently working on Nnote.
 
@@ -35,7 +35,7 @@
 
 
 
-
+---
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devtofunmi&theme=dark&border_radius=5)](https://git.io/streak-stats)
