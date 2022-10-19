@@ -18,13 +18,14 @@
       <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
   </div>
    ---
+   
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
   
  
  
 
  
-  ---
+ 
    :man_technologist: About Me :
   I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
@@ -40,9 +41,9 @@
 
 
 
- ---
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devtofunmi&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
- ---
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtofunmi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
