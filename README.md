@@ -16,14 +16,14 @@
   </a>
 </div>
       <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
-  
+  </div>
    ---
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
   
  
  
 
- </div>
+ 
   ---
    :man_technologist: About Me :
   I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
