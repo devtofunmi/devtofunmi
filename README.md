@@ -5,10 +5,8 @@
   Hi there,I'm DevTofunmi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
-  
-  <div id="badges">
+   
+   <div id="badges">
     
   <a href="https://whatsapp.me/09072905477">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
@@ -17,7 +15,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-    <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
+  
+   ---
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
+  
  
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
