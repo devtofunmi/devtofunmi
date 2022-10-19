@@ -11,8 +11,9 @@
   <a href="https://twitter.com/codebreak_er">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
 </div>
+    <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
+  
   
   
 </div>
