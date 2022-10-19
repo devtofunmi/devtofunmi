@@ -17,6 +17,7 @@
 </div>
       <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
   </div>
+  </div>
   ---
  
 
@@ -31,7 +32,7 @@
 - :zap: In my free time, I listen to music,talk to a woman and play some games.
   
 
-</div>
+
 
 
 
