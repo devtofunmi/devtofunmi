@@ -28,7 +28,7 @@
 
 - :seedling: I'm Looking to elaborate with other developer
 
-- :zap: In my free time, I listen to music,talk to a woman and play some games.
+- :zap: In my free time, I listen to music,watch some movies,talk to the she and play some games.
   
 
 
