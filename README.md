@@ -38,7 +38,7 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devtofunmi&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtofunmi&show_icons=true&theme=dark)
 
