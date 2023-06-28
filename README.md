@@ -26,7 +26,7 @@
   
 <!-- - :telescope: I’m currently working on Nnote. -->
 
-- :seedling: I'm Looking to elaborate with other developer
+- :seedling: Seeking collaborative developers for a unique project, let's innovate together!
 
 - :zap: In my free time, I listen to music,watch some movies,talk to the she and play some games.
   
