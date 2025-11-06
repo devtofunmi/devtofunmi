@@ -13,6 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+
+
 I’m **Jay (Tofunmi)**  a passionate **Frontend Developer** who loves turning ideas into clean, responsive, and functional interfaces using **React, TypeScript, and Tailwind CSS**. 
 
 Over the past few years, I’ve built and shipped several projects from scratch  including   [**PrepKitty**](https://prepkitty.co), and a few more currently in development.
