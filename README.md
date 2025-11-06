@@ -1,45 +1,53 @@
-
-
 <div id="header" align="center">
-   <h1>
-  Hi there,I'm DevTofunmi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-   
-   <div id="badges">
-    
-  <a href="https://whatsapp.me/09072905477">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-  <a href="https://twitter.com/codebreak_er">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <h1>
+    Hi there, I'm DevTofunmi 👋
+  </h1>
+
+  <div id="badges">
+    <a href="https://whatsapp.me/09072905477">
+      <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    </a>
+    <a href="https://twitter.com/codebreak_er">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-      <img src="https://komarev.com/ghpvc/?username=devtofunmi&style=flat-square&color=blue" alt=""/>
-  </div>
-  </div>
-  
- 
-
- 
-- :man_technologist: I'm a Frontend Developer
-  
-<!-- - :telescope: I’m currently working on Nnote. -->
-
-- :seedling: Seeking collaborative developers for a unique project, let's innovate together!
-
-- :zap: In my free time, I listen to music,watch some movies,talk to the she and play some games.
-  
-
-
-
-
 
 ---
 
+### 👨‍💻 About Me
+
+I’m **Jay (DevTofunmi)** — a passionate **Frontend Developer** who loves turning ideas into clean, responsive, and functional interfaces using **React, TypeScript, and Tailwind CSS**.  
+Over the past few years, I’ve built and shipped several projects from scratch — including [**PrettyBio**](https://prettybio.vercel.app), [**PrepKitty**](https://prepkitty.co), and a few more currently in development.
+
+I’m currently working on **PrepKitty**, an **AI-powered mock interview platform** that helps users prepare with realistic interview simulations across multiple niches.
+
+My peers often describe me as **adaptable, creative, and detail-oriented** — I enjoy collaborating with other developers, contributing to open source, and exploring how AI can improve real-world workflows.
+
+---
+
+### 🌱 What I'm Into
+- Building clean and modern web apps with Next js, React, Tailwind & TypeScript  
+- Exploring the intersection of **AI × Frontend development**  
+- Sharing my dev journey and projects on **X (Twitter)**  
+- Occasionally playing **CODM 🎮** or vibing to music 🎧  
+
+---
+
+### 🤝 Let’s Connect
+If you’d like to collaborate, chat tech, or talk ideas, feel free to reach out:
+
+📧 **olayiwolajesutofunmi@gmail.com**  
+🌍 [**Portfolio**](https://www.tofunmi.xyz)
+
+---
+
+### ⚡ GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devtofunmi&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtofunmi&show_icons=true&theme=dark)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtofunmi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtofunmi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
