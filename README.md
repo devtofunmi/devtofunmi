@@ -20,7 +20,6 @@ Over the past few years, I’ve built and shipped several projects from scratch 
 
 I’m currently working on **PrepKitty**, an **AI-powered mock interview platform** that helps users prepare with realistic interview simulations across multiple niches.
 
-My peers often describe me as **adaptable, creative, and detail-oriented** — I enjoy collaborating with other developers, contributing to open source, and exploring how AI can improve real-world workflows.
 
  What I'm Into
 - Building clean and modern web apps with Next js, React, Tailwind & TypeScript  
