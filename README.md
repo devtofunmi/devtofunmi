@@ -1,7 +1,5 @@
 <div>
-  <h1>
-    Hi there, I'm Jay
-  </h1>
+
 
   <div id="badges">
     <a href="https://whatsapp.me/08069234350">
