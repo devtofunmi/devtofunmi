@@ -1,25 +1,47 @@
 # Hi there 👋
 
-I'm **Jay (Tofunmi)**, a passionate **Software Engineer** who enjoys building scalable, user-focused web applications from idea to production.
+I'm **Jay (Tofunmi)**, a **Software Engineer and product builder** who enjoys turning ideas into scalable, well-structured products with thoughtful UI/UX.
 
-I work across both **frontend and backend**, building modern applications with **Next.js, React, TanStack, TypeScript, Node.js, Supabase, PostgreSQL, Prisma, and Tailwind CSS**. I enjoy designing well-structured, maintainable codebases and building products that are fast, scalable, and easy to extend. I also enjoy integrating **AI** into products to solve real-world problems.
+###  Building Jargons 🦉
 
-Over the past few years, I've designed, built, and launched several personal products from scratch, including **[PrepKitty](https://prepkitty.co)**, **[SafeScore](https://safescore.pro)**, **[DevBio](https://devbio.co)**,  with more products currently in development.
+**[Jargons](https://www.jargons.run)** is an AI code review & auto-fix agent for GitHub.
 
+It reviews your pull requests, finds **bugs, security vulnerabilities, and edge cases**, then automatically opens a companion PR with the fixes.
 
-##  What I'm Into
+Jargons can also scan **existing codebases on demand** for bugs, vulnerabilities, and structural problems.
+
+**Live:** [jargons.run](https://www.jargons.run)  
+**Open Source:** [GitHub](https://github.com/devtofunmi/jargons)
+
+---
+
+### Other Products 🚀 
+
+- **[DevBio](https://devbio.co)** — A link-in-bio platform built for developers.
+- **[PrepKitty](https://prepkitty.co)** — AI-powered mock interview and career preparation platform.
+- **[SafeScore](https://safescore.pro)** — A platform for evaluating and scoring websites/products.
+
+---
+
+## What I'm Into
 
 - Building scalable full-stack web applications
-- Designing clean, responsive, and intuitive user interfaces
-- Building well-structured and maintainable codebases
+- Building AI-powered products and developer tools
+- Designing clean, responsive, and intuitive UI/UX
+- Designing well-structured and maintainable codebases
 - Backend architecture, APIs, databases, and authentication
-- AI-powered products and developer tools
-- Next.js, React, TanStack, TypeScript, Node.js, Supabase, Aeroplane & PostgreSQL
+- Turning ideas into production-ready products
 
+###  Tech Stack
 
+**Frontend:** Next.js, React, TanStack, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Hono, Supabase, PostgreSQL, Prisma, Aeroplane  
+**Tools:** Git, GitHub, Vercel, Cloudinary
+
+---
 
 ## 📫 Let's Connect
 
-
 📧 **olayiwolajesutofunmi@gmail.com**  
-🌍 **https://www.devbio.co/jay**
+🌍 **[devbio.co/jay](https://devbio.co/jay)**  
+🐦 **[X / @codebreak_er](https://x.com/codebreak_er)**
