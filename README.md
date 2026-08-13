@@ -19,7 +19,7 @@ Jargons can also scan **existing codebases on demand** for bugs, vulnerabilities
 
 - **[DevBio](https://devbio.co)** — A link-in-bio platform built for developers.
 - **[PrepKitty](https://prepkitty.co)** — AI-powered mock interview and career preparation platform.
-- **[SafeScore](https://safescore.pro)** — A platform for evaluating and scoring websites/products.
+- **[SafeScore](https://safescore.pro)** — Football predictions based on match stats and form across 14+ leagues, with risk-based filtering for more informed picks.
 
 ---
 
@@ -42,6 +42,6 @@ Jargons can also scan **existing codebases on demand** for bugs, vulnerabilities
 
 ## 📫 Let's Connect
 
-📧 **olayiwolajesutofunmi@gmail.com**  
-🌍 **[devbio.co/jay](https://devbio.co/jay)**  
-🐦 **[X / @codebreak_er](https://x.com/codebreak_er)**
+ **olayiwolajesutofunmi@gmail.com**  
+ **[devbio.co/jay](https://devbio.co/jay)**  
+ **[X / @codebreak_er](https://x.com/codebreak_er)**
