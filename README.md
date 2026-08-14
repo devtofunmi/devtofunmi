@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hii 👋
 
 I'm **Jay (Tofunmi)**, a **Software Engineer and product builder** who enjoys turning ideas into scalable, well-structured products with thoughtful UI/UX.
 
